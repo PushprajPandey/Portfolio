@@ -27,7 +27,7 @@ export function Project() {
               </svg>
               <div className="project-links">
                 <a
-                  href="https://github.com/PushprajPandey/Rentyor"
+                  href="https://github.com/PushprajPandey/DriveKaro"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -39,7 +39,7 @@ export function Project() {
               </div>
             </header>
             <div className="body">
-              <h3>Rentyor</h3>
+              <h3>DriveKaro</h3>
               <p>
                 Car Rental Platform Developed full-stack serving 30+ users with
                 JWT authentication, real-time booking system, and Stripe payment
@@ -129,7 +129,7 @@ export function Project() {
               </svg>
               <div className="project-links">
                 <a
-                  href="https://github.com/PushprajPandey/MedSync"
+                  href="https://github.com/PushprajPandey/SehatStation"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -141,7 +141,7 @@ export function Project() {
               </div>
             </header>
             <div className="body">
-              <h3>MedSync</h3>
+              <h3>SehatStation</h3>
               <p>
                 Smart Hospital Management System built end-to-end healthcare
                 management solution covering 6+ departments with real-time OPD
